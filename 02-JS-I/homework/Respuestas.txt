@@ -1,0 +1,21 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando 
+a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables: Son elementos del programa donde podremos almacenar informacion de diferentes tipos como numeros,palabras,funciones matematicas,
+        estados si es verdadero o falso de algun evento que ha ocurrido.
+
+Strings: Este tipo de datos se puede almacenar un grupo de cadenas de texto por ejemplo un 'hola' u cualquier otra palabra.
+
+Funciones (argumentos, return) : Las funciones son como pequeños programas en donde contienen ciertos codigos que realizan alguna funcion
+         en especifico como operaciones matematicas,evaluaciones,asignaciones entre otras cosas, los argumentos son valores que nosotros
+         le damos a la funcion antes de ejecutarlos por ejemplo podemos pasarle un numero o una palabra u otro dato para que la funcion     
+         pueda hacer algo con ella y el Return nos sirve para retornar valores que se hallan realizado en la funcion por ejemplo si en la       
+         funcion se realizo una operacion matematica o se evaluo un estado el elemento Return nos devolvera dicho valor o resultado que halla
+         sucedido dentro de la funcion.
+
+Declaraciones if : Son condiciones en donde establecemos ciertos valores y los evaluamos ,si se cumplen se ejecutan o mientras sean verdaderos
+        lo que este dentro de la declaracion IF se ejecuta,sino lo omite o ignora y se salta a la siguiente instruccion que este por ejemplo    
+        dentro de una funcion o parte de algun programa.
+    
+Valores booleanos (true, false): Son valores u estados de alguna operacion que se halla realizado que solo pueden tener 2 estados verdadero o
+        falso, o 0 Y 1 ,solo pueden tener un solo valor ya sea verdadero o falso y se basan en la logica de bool.
