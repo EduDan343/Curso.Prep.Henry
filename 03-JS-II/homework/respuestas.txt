@@ -1,0 +1,15 @@
+Explicacion de conceptor de:
+for: Se trata de un bucle en la que se ejecutara cierta cantidad de veces de acuerdo a una condicion del limite de veces o hasta que valor deveria
+    llegar por ejemplo tenemos una variable que establecemos un limite de 6 entonces cuando llegue a 6 el bucle se detendra y saldra del mismo,
+    tambien contamos con una condicion de inicio en la que establecemos el valor de inicio de la variable ,puede empezar por var=0 o podemos
+    poner lo que queramos como var=1 que inicie con 1,tambien tenemos otra y tercera condicion que es el incremento cuanto queremos que valla
+    aumentando la variable como var++ que significa que incrementara de 1 en 1.
+
+&&, ||, ! : Son condiciones que vienen de la logica boleana, en la que se establecen ciertas condiciones ,y si se cumplen se llevara una   
+accion de salida true o verdadera, la primera && es una condicion tipo:
+     -AND:Establece que ambas condiciones que estemos teniendo
+        tienen que ser verdaderas para que a su salida tambien sea verdadera o true
+     -|| : Este operador establece que si alguna de las condiciones se cumple o es verdadera ,su salida tambien sera verdadera y se ejecutara   
+           su funcion.
+     -! : Este simbolo representa la negacion o instruccion NOT en la que alterna el estado de una condicion,como ejemplo si una condicion
+        se cumple o es true al aplicarle la negacion su salida sera False o negativa osea el valor contrario al de entrada.
