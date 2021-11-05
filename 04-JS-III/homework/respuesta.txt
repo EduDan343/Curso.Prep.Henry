@@ -1,0 +1,4 @@
+Definicion de Array: Es un espacio de memoria en donde podemos almacenar diferentes tipos de variables como strings,numeros,booleanos o
+cualquier otro tipo de variable incluso puede haber array dentro de un array y podemos consultarlo de forma entera o en alguan casilla en 
+especifico,tambien puede haber funciones dentro del array, cada tipo de variable se almacena en orden como si fueran casilleros y para mandarlos
+a llamar debemos especificar enque numero de casillero se encuentra lo que estamos buscando.
