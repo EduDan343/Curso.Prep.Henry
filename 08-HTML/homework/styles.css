@@ -1,0 +1,58 @@
+h1 {
+    color:blue;
+}
+img {
+    width: 400px;
+}
+.div1 {
+    background-color: orange; 
+    width: 750px;
+    
+    border: solid black 10px;
+    margin: 10px auto;
+   
+}
+.div2{
+    background-color: orange;
+    max-width: 500px;
+    border: solid black 10px;
+    margin: 10px auto;
+}
+
+.divClass {
+    
+    text-align: center;
+    
+    /*Sirven para que el width sea la posicion real sin importar
+    si agregamos padding o border */
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.thirdDiv {
+    background-color: #7bfb03;
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    
+    margin: 10px auto;
+    border-width: 30px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+}
+#spanId {
+    font-size: 18px;
+    margin: 10px;
+    padding: 10px;
+    border-width: 5px;
+    border-color: springgreen;
+    border-style: solid;
+    background-color: blue;
+
+}
+body {
+    background-image: url("../img/montana.jpg");
+    background-color: paleturquoise;
+    background position: 0 0;
+}
